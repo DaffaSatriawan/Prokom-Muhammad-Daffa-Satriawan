@@ -1,10 +1,9 @@
 #cities
-describe_city = {
-    'semarang': 'Indonesia',
-    'jakarta': 'Indonesia',
-    'new york': 'USA',
-}
+def describe_city(city, country='Indonesia'):
+    """Display a message about the city and its country."""
+    print(f"{city.title()} is in {country.title()}.")
 
-for city, country in describe_city.items():
-    print(f"{city.title()} is in {country}.")
-    
+
+describe_city("semarang")
+describe_city("jakarta")
+describe_city("new york", "USA")
