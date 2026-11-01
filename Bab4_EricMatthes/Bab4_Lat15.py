@@ -1,8 +1,8 @@
 #code review bab 4
-
 #bab 4.1
 #list favorit pizza
-list_favorit_pizza = ['pepperoni', 'margherita', 'hawaiian', 'bbq chicken', 'veggie']
+list_favorit_pizza = ['pepperoni', 'margherita', 'hawaiian', 'bbq chicken', 
+'veggie']
 
 #looping untuk menampilkan daftar favorit pizza
 for pizza in list_favorit_pizza:
@@ -25,7 +25,8 @@ print("hewan hewan ini cocok dipelihara!")
 #Bab 4.11
 #List pizza
 friend_pizzas = ['pepperoni', 'margherita', 'hawaiian', 'bbq chicken', 'veggie']
-my_favorite_pizzas = ['pepperoni', 'margherita', 'hawaiian', 'bbq chicken', 'veggie']
+my_favorite_pizzas = ['pepperoni', 'margherita', 'hawaiian', 'bbq chicken', 
+'veggie']
 
 #add new pizza to the list
 my_favorite_pizzas.append('meat lovers')
@@ -43,5 +44,5 @@ for pizza in friend_pizzas:
 
 
 #Indentasi 4 spasi
-#Panjang baris di bawah 80 karakter: Pastikan tidak ada baris kode yang terlalu panjang. 
+#Panjang baris di bawah 80: Pastikan tidak ada baris kode yang terlalu panjang. 
 #Baris kosong secukupnya
