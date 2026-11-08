@@ -1,0 +1,4 @@
+The project Gutenberg eBook of Alice in Wonderland.
+There were many cats and dogs in the yard.
+The cat sat on the mat, and the dog barked at the cat.
+This is a simple text file to test the word count program.
