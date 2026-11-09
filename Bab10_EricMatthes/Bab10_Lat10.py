@@ -2,7 +2,7 @@ from pathlib import Path
 
 print("--- Program Common Words (Exercise 10-10) ---\n")
 
-path = Path("alice.txt")
+path = Path("alice in wonderland.txt")
 
 try:
   contents = path.read_text(encoding="utf-8")
